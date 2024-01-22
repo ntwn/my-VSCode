@@ -26,4 +26,4 @@
 - Pylance <br/>
 - PYQT Integration <br/>
 - SQLite Viewer <br/>
-- WakaTime <br/>
+- WakaTime [API-KEY](https://wakatime.com/settings/api-key) <br/>
