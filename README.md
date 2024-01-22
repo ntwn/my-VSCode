@@ -22,9 +22,6 @@ Path Intellisense <br/>
 Prettier - Code formatter <br/>
 Python <br/>
 Pylance <br/>
-PYQT Integration <br/>![visualstudiocode](https://github.com/ntwn/my-VSCode/assets/33979878/57a8435c-f10f-408c-810a-f4ef29e1a4f0)
-
+PYQT Integration <br/>
 SQLite Viewer <br/>
 WakaTime <br/>
-
-
