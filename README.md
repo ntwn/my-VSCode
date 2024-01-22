@@ -1,6 +1,7 @@
-# Мої налаштування VSCode
+# Мої налаштування VSCode <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" />
 
 ## Крутий шрифт [JetBrains Mono](https://jetbrains.com/ru-ru/lp/mono/)
+
 > скачати, і встановити шрифти з папки ttf
 
 ![Шрифт JetBrains Mono](https://github.com/ntwn/my-VSCode/assets/33979878/3319e74b-652f-41f6-aff7-cfad39cf7534)
@@ -21,7 +22,8 @@ Path Intellisense <br/>
 Prettier - Code formatter <br/>
 Python <br/>
 Pylance <br/>
-PYQT Integration <br/>
+PYQT Integration <br/>![visualstudiocode](https://github.com/ntwn/my-VSCode/assets/33979878/57a8435c-f10f-408c-810a-f4ef29e1a4f0)
+
 SQLite Viewer <br/>
 WakaTime <br/>
 
